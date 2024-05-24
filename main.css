@@ -25,7 +25,12 @@ ul{
     height: 100vh;
     background-color: chocolate;
 }
-
+.box_3{
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    
+}
 button{
     padding: 1rem 2rem;
     background-color: brown;
